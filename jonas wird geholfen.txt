@@ -1,0 +1,52 @@
+<div class="row" style="padding-bottom: 20px;">
+                    <div class="col-6 align-self-center">
+                            <div class="card" style="width: 100%; height: 100%; border: none;">
+                                    <div class="card-body">
+                                      <h6 class="card-title" style="color: orangered;">BOUNDLESS</h6>
+                                      <h3 class="card-subtitle mb-2" style="color: darkslategray;">Why Choose Us?</h3>
+                                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste fuga id vero repudiandae, nam atque enim ex dolor rem odit aperiam harum cum illo autem ratione? Amet dolores tempora autem.
+                                          <div class="row">
+                                            <div class="col-6">
+                                                <div class="row">
+                                                  <h5 style="color: darkslategray;">Henceforth Relevant</h5>
+                                                </div>
+                                                <div class="row">
+                                                  <h4>At vero ... Lorem ipsum .. oder so</h4>
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                              <div class="row">
+                                                <h5 style="color: darkslategray;">Fact based</h5>
+                                              </div>
+                                              <div class="row">
+                                                <h4>alea iacta est</h4>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="row" style="padding-top: 20px;">
+                                            <div class="col-6">
+                                              <div class="row">
+                                                <h5 style="color: darkslategray;">A Wonderful Wish</h5>
+                                              </div>
+                                              <div class="row">
+                                                <h4>Cras legam</h4>
+                                              </div>
+                                            </div>
+                                            <div class="col-6">
+                                              <div class="row">
+                                                <h5 style="color: darkslategray;">Scientifically Build</h5>
+                                              </div>
+                                              <div class="row">
+                                                <h4>Et tu Brute?</h4>
+                                              </div>
+                                            </div>
+                                            </div>
+                                      </p>
+                                    </div>
+                                  </div>
+                    </div>
+                    <div class="col-6 align-self-center">
+                        <img src="images/home2-why-choose-us.jpg" width="100%">
+                    </div>
+                </div>
+    </div>
