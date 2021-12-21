@@ -1,0 +1,22 @@
+a:hover{
+    color: orangered !important;
+}
+
+.blog-artical{
+    overflow: hidden;
+    position: relative;
+}
+
+.blog-artical img{
+    transform: scale(1);
+    transition: all 1s ease-out;
+}
+
+.blog-artical:hover img{
+    transform: scale(1.4) !important;
+    transition: all 1s ease-in;
+}
+
+.blog-info{
+    position: absolute;
+}
